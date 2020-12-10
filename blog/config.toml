@@ -1,0 +1,4 @@
+baseURL = "http://fescamil.github.io/blog/"
+languageCode = "en-us"
+title = "Fescamil's Blog"
+theme = "ananke"

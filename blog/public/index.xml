@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fescamil&#39;s Blog</title>
+    <link>http://fescamil.github.io/blog/</link>
+    <description>Recent content on Fescamil&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Dec 2020 10:10:52 -0800</lastBuildDate><atom:link href="http://fescamil.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://fescamil.github.io/blog/posts/first-post/</link>
+      <pubDate>Thu, 10 Dec 2020 10:10:52 -0800</pubDate>
+      
+      <guid>http://fescamil.github.io/blog/posts/first-post/</guid>
+      <description>Hey this is a test.</description>
+    </item>
+    
+  </channel>
+</rss>
